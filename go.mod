@@ -1,1 +1,1 @@
-module "github.com/somebadcode/mathx"
+module "github.com/somebadcode/go-mathx"
